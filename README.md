@@ -1,4 +1,4 @@
-<header><h2>o3WebS for Linux</h2></header>
+<header><h2>o3WebS for Linux | Version: 1.9</h2></header>
 <h4><pre> 
 o3Webs for Linux is a WebServer, only scripted in C.
 Designed specifically for older and resource-limited systems.
