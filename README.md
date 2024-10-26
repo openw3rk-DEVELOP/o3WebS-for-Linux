@@ -20,6 +20,8 @@ Usage:
 ´o3webs -server --start -portX´: starts the server on port X
 ´o3webs -server --stop´: stops the server
 
+Run all commands as root.
+
 The directory for hosting files is <strong>/var/o3docs/*</strong>
 
 --------------------------------------------------
